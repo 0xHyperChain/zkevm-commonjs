@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@0xhyperchain/common": "^2.6.4",
-    "@0xhyperchain/vm": "6.4.2",
+    "@0xhyperchain/vm": "5.7.30",
     "@ethereumjs/block": "^3.6.2",
     "@ethereumjs/tx": "^3.4.0",
     "ethereumjs-util": "^7.1.4",
