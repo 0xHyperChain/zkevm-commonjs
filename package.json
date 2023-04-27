@@ -46,10 +46,10 @@
     "yargs": "^16.2.0"
   },
   "dependencies": {
+    "@0xhyperchain/common": "^2.6.4",
+    "@0xhyperchain/vm": "6.4.2",
     "@ethereumjs/block": "^3.6.2",
     "@ethereumjs/tx": "^3.4.0",
-    "@0xhyperchain/common": "3.1.2",
-    "@0xhyperchain/vm": "6.4.2",
     "ethereumjs-util": "^7.1.4",
     "ethers": "^5.5.4",
     "ffjavascript": "^0.2.55",
